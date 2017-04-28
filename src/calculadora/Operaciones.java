@@ -33,13 +33,13 @@ public class Operaciones {
     System.out.println("Digite El segundo Número: ");
     numero2 = reader.nextInt();
                 resultado = numero1 + numero2;
-                System.out.println("Numero de Suma: "+i);
-                System.out.println("El Resultado Es: "+resultado);
+                System.out.println("El Resultado de la suma: " +i);
+                System.out.println("Es: " +resultado);
             }
             
         }else {
         
-        System.out.println("Cantidad De Números Invalida....");
+        System.out.println("Cantidad De Números Invalida.... Máximo 10");
         
         }
     
