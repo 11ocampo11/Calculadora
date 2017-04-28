@@ -14,4 +14,7 @@ public class Operaciones {
     public int numero2;
     public int cantidad;
     public int resultado;
+    
+    
+   
 }
