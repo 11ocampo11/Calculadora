@@ -10,5 +10,8 @@ package calculadora;
  * @author APRENDIZ
  */
 public class Operaciones {
-    
+    public int numero1;
+    public int numero2;
+    public int cantidad;
+    public int resultado;
 }
